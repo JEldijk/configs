@@ -1,0 +1,1 @@
+/home/jochem/.p10k.zsh
