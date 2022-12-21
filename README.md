@@ -1,8 +1,11 @@
 # configs
 
-## repo based on
+## get configs
 
-https://medium.com/@victor.cui1996/how-to-store-configuration-files-in-git-e5924340c6ee
+1. clone this repo
+2. create links for all files:
+   1. `ln -s ~/git/private/configs/.p10k.zsh ~/.p10k.zsh-backup`
+   2. `ln -s ~/git/private/configs/.gitconfig.private ~/git/private/.gitconfig.private`
 
 ## zsh
 
