@@ -1,1 +1,9 @@
-/home/jochem/git/private/.gitconfig.private
+# ~/git/private/.gitconfig.private
+
+[user]
+email = j.eldijk@gmail.com
+name = JEldijk
+
+
+[core]
+sshCommand = "ssh -i ~/.ssh/id_rsa"
